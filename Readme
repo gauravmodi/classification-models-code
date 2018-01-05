@@ -1,0 +1,9 @@
+## Classification Model
+- k-NN Classifier
+- Logistic Classifier
+- SVM Classifier
+- Decision Tree Classifer.
+
+These classifier are build using scikit-learn library, a python machine learning package.
+
+The models are built so as to find best fit model, which incur lowest cost to business. That is False positive cost and false negative cos is also considered while finding best fit model.
